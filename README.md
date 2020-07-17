@@ -16,7 +16,7 @@ Required packages:
 - Matplotlib
 - Scikit-Learn
 - Time
-- IPython.display
+- IPython
 
 ## Files
 - **'finding_donors.ipynb'**: Jupyter notebook containing the analysis
